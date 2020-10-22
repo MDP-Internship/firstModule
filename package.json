@@ -1,12 +1,20 @@
 {
   "name": "firstmodule",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDP-Internship/firstModule.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MDP-Internship/firstModule/issues"
+  },
+  "homepage": "https://github.com/MDP-Internship/firstModule#readme",
+  "description": ""
 }
